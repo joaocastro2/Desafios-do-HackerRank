@@ -1,0 +1,6 @@
+Você recebe dois conjuntos.
+Conjunto A = {1,2,3,4,5,6}
+Conjunto B = {2,3,4,5,6,7,8}
+
+Quantos elementos estão presentes em A ꓵ B?
+Insira apenas o número inteiro correto na caixa de resposta. Não inclua espaços extras, tabulações ou novas linhas.
