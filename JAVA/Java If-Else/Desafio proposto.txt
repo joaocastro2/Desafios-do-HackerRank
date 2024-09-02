@@ -1,0 +1,50 @@
+Neste desafio, testamos seu conhecimento sobre o uso de instruções condicionais if-else para automatizar 
+os processos de tomada de decisão. Uma instrução if-else tem o seguinte fluxo lógico:
+
+(Fluxograma if-else)
+Fonte: Wikipedia
+
+Tarefa
+Dado um inteiro, N, execute as seguintes ações condicionais:
+
+Se N for ímpar, impriman Weird
+Se N for par e na faixa inclusiva de 2 para 5, imprimir Not Weird
+Se for par e na faixa inclusiva de 6 para 20, imprimir Weird
+Se for par e maior que 20, imprimir Not Weird
+Preencha o código de stub fornecido em seu editor para imprimir se é estranho ou não.
+
+Formato de entrada:
+
+Uma única linha contendo um inteiro positivo, N.
+
+Restrições
+
+1<N <100
+
+Formato de saída:
+
+Imprima Weird se o número for estranho; caso contrário, imprima Not Weird.
+
+Exemplo de entrada 0
+
+3
+
+Saída de amostra 0
+
+Weird
+
+Exemplo de entrada 1
+
+24
+
+Saída de amostra 1
+
+Not Weird
+
+Explicação
+
+Exemplo de caso 0: N=3
+N é ímpar e os números ímpares são estranhos, então imprimimos Weird.
+
+Exemplo de Caso 1: N=24
+N > 20 e N é uniforme, então não é estranho. Assim, imprimimos Not Weird.

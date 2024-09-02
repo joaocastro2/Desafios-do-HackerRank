@@ -1,0 +1,35 @@
+Neste desafio, você deve ler um inteiro, um duplo e uma String de stdin e, em seguida, imprimir os valores de acordo com as instruções 
+na seção Formato de Saída abaixo. Para tornar o problema um pouco mais fácil, uma parte do código é fornecida para você no editor.
+
+Nota: Recomendamos concluir Java Stdin e Stdout I antes de tentar este desafio.
+
+Formato de entrada
+
+Existem três linhas de entrada:
+
+A primeira linha contém um número inteiro.
+A segunda linha contém um duplo.
+A terceira linha contém uma String.
+Formato de saída
+
+Existem três linhas de saída:
+
+Na primeira linha, print seguido pela String inalterada lida de stdin. String:
+Na segunda linha, imprima seguido pela leitura dupla inalterada de stdin. Double:
+Na terceira linha, print seguido pelo inteiro inalterado lido de stdin.Int:
+Para facilitar o problema, uma parte do código já é fornecida no editor.
+
+Nota: Se você usar o método nextLine() imediatamente após o método nextInt(), lembre-se de que nextInt() lê tokens inteiros; 
+por causa disso, o último caractere de nova linha para essa linha de entrada inteira ainda está enfileirado no buffer de entrada e o próximo nextLine() estará lendo o restante da linha inteira (que está vazia).
+
+Exemplo de entrada:
+
+42
+3.1415
+Welcome to HackerRank's Java tutorials!
+
+Saída de amostra:
+
+String: Welcome to HackerRank's Java tutorials!
+Double: 3.1415
+Int: 42

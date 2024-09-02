@@ -1,0 +1,23 @@
+Bem-vindo ao mundo de Java! Neste desafio, praticamos a impressão para stdout.
+
+Os stubs de código em seu editor declaram uma classe Solution e um método principal. Conclua o método principal copiando as duas linhas de 
+código abaixo e colando-as dentro do corpo do método principal.
+
+System.out.println("Hello, World.");
+System.out.println("Hello, Java.");
+
+Formato de entrada
+
+Não há entrada para este desafio.
+
+Formato de saída
+
+Você deve imprimir duas linhas de saída:
+
+Imprima na primeira linha.Hello, World.
+Imprima na segunda linha.Hello, Java.
+
+Saída de amostra
+
+Hello, World.
+Hello, Java.
